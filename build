@@ -1,0 +1,4 @@
+#!/bin/sh
+
+gcc main.c -Wall -O2 -o main
+
